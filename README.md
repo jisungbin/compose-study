@@ -1,2 +1,7 @@
 # compose-study
-compose 내 맘대로 정리한 곳
+> compose 내 맘대로 정리한 곳
+
+-----
+
+1. [`remember`](https://stackoverflow.com/a/65406900): 싱글톤? 같은 개념으로 생각하면 될 듯
+2. [`Crossfade`](https://foso.github.io/Jetpack-Compose-Playground/animation/crossfade/): 화면 전환 애니메이션
