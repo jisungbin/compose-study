@@ -7,3 +7,4 @@
 2. [`Crossfade`](https://foso.github.io/Jetpack-Compose-Playground/animation/crossfade/): 화면 전환 애니메이션
 3. [`Scaffold`](https://foso.github.io/Jetpack-Compose-Playground/material/scaffold/): Material container layout 정도로 생각하면 될 듯
 4. [`Lazy~~For`](https://foso.github.io/Jetpack-Compose-Playground/compose_for/android_devs/): RecyclerView 인 듯
+5. `Box`: `Fragment` + `clipToPadding = "false"` 같은 느낌??
