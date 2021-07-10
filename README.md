@@ -8,3 +8,4 @@
 3. [`Scaffold`](https://foso.github.io/Jetpack-Compose-Playground/material/scaffold/): Material container layout 정도로 생각하면 될 듯
 4. [`Lazy~~For`](https://foso.github.io/Jetpack-Compose-Playground/compose_for/android_devs/): RecyclerView 인 듯
 5. `Box`: `Fragment` + `android:clipToPadding="false"` 같은 느낌??
+6. - [ ] LaunchedEffect(Unit)가 뭐지???
