@@ -9,4 +9,4 @@
 4. - [x] [`Lazy~~For`](https://foso.github.io/Jetpack-Compose-Playground/compose_for/android_devs/): RecyclerView 인 듯
 5. - [x] `Box`: `Fragment` + `android:clipToPadding="false"` 같은 느낌??
 6. - [ ] LaunchedEffect(Unit)가 뭐지???
-7. - [ ] Jetpack Compose 생명주기
+7. - [x] [Jetpack Compose 생명주기](https://developer.android.com/jetpack/compose/lifecycle)
