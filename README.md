@@ -1,5 +1,5 @@
 # compose-study
-> compose 내 맘대로 정리한 곳
+> 앞으로 Compose만 써서 개발할건데,,, 제대로 알고는 써야지? ㅎㅎ
 
 -----
 
