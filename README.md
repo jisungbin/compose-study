@@ -10,3 +10,4 @@
 5. - [x] `Box`: `Fragment` + `android:clipToPadding="false"` 같은 느낌??
 6. - [ ] LaunchedEffect(Unit)가 뭐지???
 7. - [x] [Jetpack Compose 생명주기](https://developer.android.com/jetpack/compose/lifecycle)
+8. - [ ] `@Stable`, `@Immutable` 어노테이션이 뭘 하는 걸까??? 중요한거 같은데 라이브러리 개발에...
