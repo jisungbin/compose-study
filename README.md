@@ -13,3 +13,4 @@
 8. - [x] `@Stable`, `@Immutable` 어노테이션이 뭘 하는 걸까??? 중요한거 같은데 라이브러리 개발에... -> 아마 이해 한 듯????
 9. - [ ] [Compose의 이해](https://developer.android.com/jetpack/compose/mental-model)
 10. - [ ] [Compose의 부수 효과](https://developer.android.com/jetpack/compose/side-effects)
+11. -[x] Compose의 작동 원리
